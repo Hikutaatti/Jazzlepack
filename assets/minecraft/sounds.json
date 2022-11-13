@@ -1,0 +1,18 @@
+{
+  "entity.creeper.primed": {
+    "sounds": [
+      { "name": "mob/creeper/say1" },
+	  { "name": "mob/creeper/say2" },
+	  { "name": "mob/creeper/say3" },
+      { "name": "mob/creeper/say4" }
+    ], "replace": "true", "subtitle": "subtitles.entity.creeper.primed"
+  }
+  },
+    "entity.tnt.primed": {
+    "sounds": [
+      { "name": "mob/sheep/death1" },
+      { "name": "mob/sheep/death2" }
+    ], "replace": "true", "subtitle": "subtitles.entity.sheep.death"
+  }
+  
+}
