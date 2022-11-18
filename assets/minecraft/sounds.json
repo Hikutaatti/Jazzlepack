@@ -6,13 +6,14 @@
 	  { "name": "mob/creeper/say3" },
       { "name": "mob/creeper/say4" }
     ], "replace": "true", "subtitle": "subtitles.entity.creeper.primed"
-  }
   },
-    "entity.tnt.primed": {
+    "entity.drowned.ambient_water": {
     "sounds": [
-      { "name": "mob/sheep/death1" },
-      { "name": "mob/sheep/death2" }
-    ], "replace": "true", "subtitle": "subtitles.entity.sheep.death"
+      { "name": "mob/drowned/idle1" },
+	  { "name": "mob/drowned/idle2" },
+	  { "name": "mob/drowned/idle3" },
+      { "name": "mob/drowned/idle4" },
+	  { "name": "mob/drowned/idle5" }
+    ], "replace": "true", "subtitle": "damn daniel"
   }
-  
 }
