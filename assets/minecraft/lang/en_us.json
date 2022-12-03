@@ -766,7 +766,7 @@
   "options.attackIndicator": "Attack Indicator",
   "options.attack.crosshair": "Crosshair",
   "options.attack.hotbar": "Hotbar",
-  "options.showSubtitles": "Show Subtitles",
+  "options.showSubtitles": "Laita tää päälle",
   "options.directionalAudio": "Directional Audio",
   "options.directionalAudio.on.tooltip": "Uses HRTF-based directional audio to improve the simulation of 3D sound. Requires HRTF compatible audio hardware, and is best experienced with headphones.",
   "options.directionalAudio.off.tooltip": "Classic Stereo sound",
