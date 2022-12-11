@@ -1,12 +1,73 @@
 {
+  
+  "_comment":"														CREEPER ÄÄNET"
+  
   "entity.creeper.primed": {
     "sounds": [
       { "name": "mob/creeper/say1" },
 	  { "name": "mob/creeper/say2" },
 	  { "name": "mob/creeper/say3" },
       { "name": "mob/creeper/say4" }
-    ], "replace": "true", "subtitle": "subtitles.entity.creeper.primed"
+    ], "replace": "true"
   },
+  
+  
+   "_comment":"														POINTED_DRIPSTONE ÄÄNET"
+  
+  "block.pointed_dripstone.break": {
+    "sounds": [
+      "block/pointed_dripstone/drip_goku"
+    ], "replace": "true"
+  },
+  "block.pointed_dripstone.drip_lava": {
+    "sounds": [
+      "block/pointed_dripstone/drip_goku"
+    ], "replace": "true"
+  },
+  "block.pointed_dripstone.drip_lava_into_cauldron": {
+    "sounds": [
+      "block/pointed_dripstone/drip_goku"
+    ], "replace": "true"
+  },
+  "block.pointed_dripstone.drip_water": {
+    "sounds": [
+      "block/pointed_dripstone/drip_goku"
+    ], "replace": "true"
+  },
+  "block.pointed_dripstone.drip_water_into_cauldron": {
+    "sounds": [
+      "block/pointed_dripstone/drip_goku"
+    ], "replace": "true"
+  },
+  "block.pointed_dripstone.fall": {
+    "sounds": [
+      "block/pointed_dripstone/drip_goku"
+    ], "replace": "true"
+  },
+  "block.pointed_dripstone.hit": {
+    "sounds": [
+      "block/pointed_dripstone/drip_goku"
+    ], "replace": "true"
+  },
+  "block.pointed_dripstone.land": {
+    "sounds": [
+      "block/pointed_dripstone/drip_goku"
+    ], "replace": "true"
+  },
+  "block.pointed_dripstone.place": {
+    "sounds": [
+      "block/pointed_dripstone/drip_goku"
+    ], "replace": "true"
+  },
+  "block.pointed_dripstone.step": {
+    "sounds": [
+      "block/pointed_dripstone/drip_goku"
+    ], "replace": "true"
+  },
+  
+  
+   "_comment":"														DROWNED ÄÄNET"
+  
     "entity.drowned.ambient_water": {
     "sounds": [
       { "name": "mob/drowned/idle1" },
