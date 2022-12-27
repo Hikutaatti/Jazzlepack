@@ -10,10 +10,7 @@
       { "name": "mob/creeper/say4" }
      ], "replace": "true"
   },
-  
-  
-  
-  
+
   "block.pointed_dripstone.break": {
     "sounds": [
       "block/pointed_dripstone/drip_goku"
